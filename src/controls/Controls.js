@@ -2,7 +2,6 @@ import React, {Component} from 'react'
 import pw from '../img/symbols/PW.png'
 import chaos from '../img/symbols/CHAOS.png'
 import whitespace from '../img/symbols/whitespace.png'
-import ReactDOM from 'react-dom'
 import './Controls.css'
 
 class Controls extends Component {

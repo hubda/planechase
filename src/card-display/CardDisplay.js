@@ -1,5 +1,4 @@
 import React, {Component} from 'react'
-import ReactDOM from 'react-dom'
 import './CardDisplay.css'
 
 class CardDisplay extends Component {
@@ -55,12 +54,12 @@ class CardDisplay extends Component {
         shownCards.push(tempDeck.pop());
         this.shuffleDeck(tempDeck);
 
-        this.state.cardList = cardImages;
-        this.state.shuffledCardList = tempDeck;
-        // this.setState({
-        //     cardList: cardImages,
-        //     shuffledCardList: tempDeck
-        // });
+        // this.state.cardList = cardImages;
+        // this.state.shuffledCardList = tempDeck;
+        this.setState({
+            cardList: cardImages,
+            shuffledCardList: tempDeck
+        });
     }
 
     render() {
@@ -69,11 +68,6 @@ class CardDisplay extends Component {
 
         return (
             <div className="Card">
-                {/*<img src={this.state.shownCards}*/}
-                     {/*className="card-img"*/}
-                     {/*alt="pic"*/}
-                     {/*onClick={this.handleClick()}*/}
-                {/*/>*/}
                 <img key={Date.now()}
                      src={cardToShow}
                      className="card-img"
