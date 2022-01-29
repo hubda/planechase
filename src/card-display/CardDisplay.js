@@ -1,21 +1,24 @@
 import React, {Component} from 'react'
+import chaos from '../img/symbols/CHAOS.png'
 import './CardDisplay.css'
 
 class CardDisplay extends Component {
     constructor(props) {
         super(props);
+        const stateVars = this.makeDecks();
+
         this.state = {
-            cardList: [],
-            shuffledCardList: [],
-            shownCards: []
+            cardList: stateVars.cardList,
+            shuffledCardList: stateVars.shuffledCardList,
+            shownCards: stateVars.shownCards
         };
+
         this.handleClick = this.handleClick.bind(this);
-        this.makeDecks();
     }
 
     importAll(r) {
         let images = {};
-        r.keys().map((item, index) => { images[item.replace('../img/cards', '')] = r(item); });
+        r.keys().forEach((item, index) => { images[item.replace('../img/cards', '')] = r(item); });
         return images;
     }
 
@@ -44,22 +47,23 @@ class CardDisplay extends Component {
         console.log('making decks');
         const images = this.importAll(require.context('../img/cards', false, /\.(png|jpe?g|svg)$/));
         const cardImages = [];
+        const tempDeck = cardImages;
+        const shownCards = [];
 
         Object.keys(images).forEach(key => {
             cardImages.push(images[key]);
         });
 
-        const tempDeck = cardImages;
-        const shownCards = this.state.shownCards;
-        shownCards.push(tempDeck.pop());
         this.shuffleDeck(tempDeck);
+        shownCards.push(tempDeck.pop());
 
         // this.state.cardList = cardImages;
         // this.state.shuffledCardList = tempDeck;
-        this.setState({
+        return {
             cardList: cardImages,
-            shuffledCardList: tempDeck
-        });
+            shuffledCardList: tempDeck,
+            shownCards: shownCards
+        };
     }
 
     render() {
@@ -71,7 +75,7 @@ class CardDisplay extends Component {
                 <img key={Date.now()}
                      src={cardToShow}
                      className="card-img"
-                     alt="pic"
+                     alt={chaos}
                      onClick={this.handleClick}
                 />
             </div>

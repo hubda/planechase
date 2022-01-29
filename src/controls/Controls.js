@@ -50,6 +50,7 @@ class Controls extends Component {
                     <img key={Date.now()}
                          src={result}
                          className="result-img"
+                         alt={whitespace}
                     />
                     <p>
                         <h2>{count}</h2>
