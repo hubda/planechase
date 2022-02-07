@@ -45,7 +45,6 @@ class CardDisplay extends Component {
 
     makeDecks() {
         console.log('making decks');
-        const planesContext = '../img/cards';
         const images = this.importAll(require.context('../img/planes', false, /\.(png|jpe?g|svg)$/));
         const cardImages = [];
         const tempDeck = cardImages;

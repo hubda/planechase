@@ -2,105 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="69ff1ea1-4de6-4125-a243-ef5dcb050dcb" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/public/logo192.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/logo512.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/card-display/CardDisplay.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/card-display/CardDisplay.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/card-display/CardDisplay.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/card-display/CardDisplay.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/controls/Controls.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/controls/Controls.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/controls/Controls.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/controls/Controls.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/cards/academy-at-tolaria-west.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/planes/academy-at-tolaria-west.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/cards/agyrem.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/planes/agyrem.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/cards/akoum.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/planes/akoum.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/cards/opca-1-chaotic-aether.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/planes/opca-1-chaotic-aether.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/cards/opca-10-the-aether-flues.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/planes/opca-10-the-aether-flues.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/cards/opca-13-aretopolis.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/planes/opca-13-aretopolis.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/cards/opca-14-astral-arena.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/planes/opca-14-astral-arena.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/cards/opca-15-bant.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/planes/opca-15-bant.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/cards/opca-16-bloodhill-bastion.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/planes/opca-16-bloodhill-bastion.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/cards/opca-17-celestine-reef.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/planes/opca-17-celestine-reef.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/cards/opca-18-cliffside-market.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/planes/opca-18-cliffside-market.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/cards/opca-19-the-dark-barony.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/planes/opca-19-the-dark-barony.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/cards/opca-2-interplanar-tunnel.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/webcam-unfriendly/opca-2-interplanar-tunnel.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/cards/opca-20-edge-of-malacol.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/planes/opca-20-edge-of-malacol.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/cards/opca-21-eloren-wilds.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/planes/opca-21-eloren-wilds.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/cards/opca-22-the-eon-fog.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/planes/opca-22-the-eon-fog.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/cards/opca-23-feeding-grounds.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/planes/opca-23-feeding-grounds.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/cards/opca-24-fields-of-summer.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/planes/opca-24-fields-of-summer.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/cards/opca-25-the-fourth-sphere.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/planes/opca-25-the-fourth-sphere.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/cards/opca-26-furnace-layer.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/planes/opca-26-furnace-layer.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/cards/opca-27-gavony.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/planes/opca-27-gavony.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/cards/opca-28-glen-elendra.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/planes/opca-28-glen-elendra.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/cards/opca-29-glimmervoid-basin.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/planes/opca-29-glimmervoid-basin.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/cards/opca-3-morphic-tide.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/planes/opca-3-morphic-tide.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/cards/opca-30-goldmeadow.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/planes/opca-30-goldmeadow.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/cards/opca-31-grand-ossuary.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/planes/opca-31-grand-ossuary.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/cards/opca-32-the-great-forest.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/planes/opca-32-the-great-forest.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/cards/opca-33-grixis.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/planes/opca-33-grixis.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/cards/opca-34-grove-of-the-dreampods.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/planes/opca-34-grove-of-the-dreampods.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/cards/opca-35-hedron-fields-of-agadeem.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/planes/opca-35-hedron-fields-of-agadeem.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/cards/opca-36-the-hippodrome.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/planes/opca-36-the-hippodrome.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/cards/opca-37-horizon-boughs.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/planes/opca-37-horizon-boughs.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/cards/opca-38-immersturm.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/planes/opca-38-immersturm.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/cards/opca-39-isle-of-vesuva.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/planes/opca-39-isle-of-vesuva.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/cards/opca-4-mutual-epiphany.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/planes/opca-4-mutual-epiphany.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/cards/opca-40-izzet-steam-maze.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/planes/opca-40-izzet-steam-maze.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/cards/opca-41-jund.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/planes/opca-41-jund.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/cards/opca-42-kessig.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/planes/opca-42-kessig.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/cards/opca-43-kharasha-foothills.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/planes/opca-43-kharasha-foothills.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/cards/opca-44-kilnspire-district.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/planes/opca-44-kilnspire-district.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/cards/opca-45-krosa.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/planes/opca-45-krosa.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/cards/opca-46-lair-of-the-ashen-idol.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/planes/opca-46-lair-of-the-ashen-idol.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/cards/opca-47-lethe-lake.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/planes/opca-47-lethe-lake.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/cards/opca-48-llanowar.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/planes/opca-48-llanowar.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/cards/opca-49-the-maelstrom.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/planes/opca-49-the-maelstrom.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/cards/opca-5-planewide-disaster.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/planes/opca-5-planewide-disaster.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/cards/opca-50-minamo.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/planes/opca-50-minamo.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/cards/opca-51-mirrored-depths.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/planes/opca-51-mirrored-depths.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/cards/opca-52-mount-keralia.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/planes/opca-52-mount-keralia.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/cards/opca-53-murasa.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/planes/opca-53-murasa.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/cards/opca-54-naar-isle.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/planes/opca-54-naar-isle.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/cards/opca-55-naya.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/planes/opca-55-naya.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/cards/opca-56-nephalia.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/planes/opca-56-nephalia.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/cards/opca-57-norn-s-dominion.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/planes/opca-57-norn-s-dominion.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/cards/opca-58-onakke-catacomb.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/planes/opca-58-onakke-catacomb.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/cards/opca-59-orochi-colony.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/planes/opca-59-orochi-colony.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/cards/opca-6-reality-shaping.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/planes/opca-6-reality-shaping.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/cards/opca-60-orzhova.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/planes/opca-60-orzhova.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/cards/opca-61-otaria.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/planes/opca-61-otaria.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/cards/opca-62-panopticon.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/planes/opca-62-panopticon.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/cards/opca-63-pools-of-becoming.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/planes/opca-63-pools-of-becoming.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/cards/opca-64-prahv.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/planes/opca-64-prahv.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/cards/opca-65-quicksilver-sea.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/planes/opca-65-quicksilver-sea.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/cards/opca-66-raven-s-run.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/planes/opca-66-raven-s-run.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/cards/opca-67-sanctum-of-serra.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/planes/opca-67-sanctum-of-serra.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/cards/opca-68-sea-of-sand.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/planes/opca-68-sea-of-sand.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/cards/opca-69-selesnya-loft-gardens.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/planes/opca-69-selesnya-loft-gardens.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/cards/opca-7-spatial-merging.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/webcam-unfriendly/opca-7-spatial-merging.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/cards/opca-70-shiv.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/planes/opca-70-shiv.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/cards/opca-71-skybreen.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/planes/opca-71-skybreen.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/cards/opca-72-sokenzan.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/planes/opca-72-sokenzan.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/cards/opca-73-stairs-to-infinity.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/planes/opca-73-stairs-to-infinity.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/cards/opca-74-stensia.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/planes/opca-74-stensia.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/cards/opca-75-stronghold-furnace.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/planes/opca-75-stronghold-furnace.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/cards/opca-76-takenuma.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/planes/opca-76-takenuma.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/cards/opca-77-talon-gates.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/planes/opca-77-talon-gates.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/cards/opca-78-tazeem.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/planes/opca-78-tazeem.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/cards/opca-79-tember-city.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/planes/opca-79-tember-city.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/cards/opca-8-time-distortion.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/planes/opca-8-time-distortion.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/cards/opca-80-trail-of-the-mage-rings.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/planes/opca-80-trail-of-the-mage-rings.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/cards/opca-81-truga-jungle.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/planes/opca-81-truga-jungle.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/cards/opca-82-turri-island.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/planes/opca-82-turri-island.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/cards/opca-83-undercity-reaches.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/planes/opca-83-undercity-reaches.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/cards/opca-84-velis-vel.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/planes/opca-84-velis-vel.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/cards/opca-85-windriddle-palaces.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/webcam-unfriendly/opca-85-windriddle-palaces.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/cards/opca-86-the-zephyr-maze.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/planes/opca-86-the-zephyr-maze.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/symbols/CHAOS.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/symbols/CHAOS.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/symbols/PW.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/symbols/PW.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/symbols/whitespace.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/symbols/WHITESPACE.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -112,11 +14,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="CardDisplay.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="CardDisplay.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/card-display/CardDisplay.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="337">
-              <caret line="26" column="27" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="27" />
+            <state relative-caret-position="143">
+              <caret line="46" column="36" selection-start-line="46" selection-start-column="36" selection-end-line="46" selection-end-column="36" />
               <folding>
                 <element signature="e#0#38#0" expanded="true" />
               </folding>
@@ -124,11 +26,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Controls.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Controls.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/controls/Controls.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+            <state relative-caret-position="238">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
             </state>
           </provider>
         </entry>
@@ -136,7 +38,7 @@
       <file leaf-file-name="Controls.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/controls/Controls.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="81">
+            <state relative-caret-position="136">
               <caret line="68" column="36" selection-start-line="68" selection-start-column="36" selection-end-line="68" selection-end-column="36" />
               <folding>
                 <element signature="e#0#38#0" expanded="true" />
@@ -173,9 +75,9 @@
         <option value="$PROJECT_DIR$/src/index.js" />
         <option value="$PROJECT_DIR$/src/index.css" />
         <option value="$PROJECT_DIR$/src/card-display/CardDisplay.css" />
-        <option value="$PROJECT_DIR$/src/card-display/CardDisplay.js" />
         <option value="$PROJECT_DIR$/src/controls/Controls.js" />
         <option value="$PROJECT_DIR$/src/controls/Controls.css" />
+        <option value="$PROJECT_DIR$/src/card-display/CardDisplay.js" />
       </list>
     </option>
   </component>
@@ -344,12 +246,12 @@
       <option name="presentableId" value="Default" />
       <updated>1643303375976</updated>
       <workItem from="1643303377682" duration="18536000" />
-      <workItem from="1643731222059" duration="11774000" />
+      <workItem from="1643731222059" duration="12187000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30310000" />
+    <option name="totallyTimeSpent" value="30723000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
@@ -519,16 +421,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/card-display/CardDisplay.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="337">
-          <caret line="26" column="27" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="27" />
-          <folding>
-            <element signature="e#0#38#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/card-display/CardDisplay.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -536,9 +428,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/controls/Controls.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/controls/Controls.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
+        <state relative-caret-position="136">
           <caret line="68" column="36" selection-start-line="68" selection-start-column="36" selection-end-line="68" selection-end-column="36" />
           <folding>
             <element signature="e#0#38#0" expanded="true" />
@@ -546,10 +445,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/controls/Controls.css">
+    <entry file="file://$PROJECT_DIR$/src/card-display/CardDisplay.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        <state relative-caret-position="143">
+          <caret line="46" column="36" selection-start-line="46" selection-start-column="36" selection-end-line="46" selection-end-column="36" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
