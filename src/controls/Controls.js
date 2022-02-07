@@ -1,65 +1,91 @@
 import React, {Component} from 'react'
-import pw from '../img/symbols/PW.png'
-import chaos from '../img/symbols/CHAOS.png'
-import whitespace from '../img/symbols/whitespace.png'
+import Planeswalk from '../img/symbols/PW.png'
+import Chaos from '../img/symbols/CHAOS.png'
+import Blank from '../img/symbols/BLANK.png'
+import Whitespace from '../img/symbols/WHITESPACE.png'
 import './Controls.css'
 
 class Controls extends Component {
-    constructor(props) {
-        super(props);
-        this.state = {
-            currentResult: whitespace,
-            count: 0
-        };
-        this.handleRoll = this.handleRoll.bind(this);
-        this.handleReset = this.handleReset.bind(this);
-    }
+  constructor(props) {
+    super(props);
 
-    handleRoll() {
-        console.log('handleRoll');
-        const options = [pw, chaos, whitespace, whitespace, whitespace, whitespace];
-        const randomIdx = Math.floor(Math.random() * options.length);
-        const newResult = options[randomIdx];
-        const newCount = this.state.count + 1;
+    this.options = [
+      {
+        name: 'Blank',
+        image: Blank
+      }, {
+        name: 'Blank',
+        image: Blank
+      }, {
+        name: 'Blank',
+        image: Blank
+      }, {
+        name: 'Blank',
+        image: Blank
+      }, {
+        name: 'Planeswalk',
+        image: Planeswalk
+      }, {
+        name: 'Chaos',
+        image: Chaos
+      }
+    ];
 
-        this.setState({
-            currentResult: newResult,
-            count: newCount
-        });
-    }
+    this.state = {
+      currentResult: this.options[0],
+      count: 0
+    };
 
-    handleReset() {
-        console.log('handleReset');
-        this.setState({
-            count: 0
-        });
-    }
+    this.handleRoll = this.handleRoll.bind(this);
+    this.handleReset = this.handleReset.bind(this);
+  }
 
-    render() {
-        console.log('rendering buttons');
-        const result = this.state.currentResult;
-        const count = this.state.count;
+  handleRoll() {
+    console.log('handleRoll');
+    const randomIdx = Math.floor(Math.random() * this.options.length);
+    const newResult = this.options[randomIdx];
+    const newCount = this.state.count + 1;
 
-        return (
-            <div className="Controls">
-                <div className="Buttons">
-                    <button className="Roll" onClick={this.handleRoll}>Roll</button>
-                    <button className="Reset" onClick={this.handleReset}>Reset</button>
-                </div>
-                <div className="Display">
-                    <img key={Date.now()}
-                         src={result}
-                         className="result-img"
-                         alt={whitespace}
-                    />
-                    <p>
-                        <h2>{count}</h2>
-                    </p>
-                </div>
+    this.setState({
+        currentResult: newResult,
+        count: newCount
+    });
+  }
 
-            </div>
-        );
-    }
+  handleReset() {
+    console.log('handleReset');
+    this.setState({
+        count: 0
+    });
+  }
+
+  render() {
+    console.log('rendering buttons');
+
+    return (
+      <div className="Controls">
+        <div className="Buttons">
+          <button className="Button Roll" onClick={this.handleRoll}>Roll</button>
+          <button className="Button Reset" onClick={this.handleReset}>Reset</button>
+        </div>
+        <div className="Display">
+          <img key={Date.now()}
+             src={this.state.currentResult.image}
+             className="result-img"
+             alt={Whitespace}
+          />
+          <p>
+            <h4>Result: {this.state.currentResult.name}</h4>
+          </p>
+          <p>
+            <h4># Rolls this turn</h4>
+            <h4>Your next roll costs this much mana</h4>
+            <h4>{this.state.count}</h4>
+          </p>
+        </div>
+      </div>
+    );
+  }
 }
 
 export default Controls;

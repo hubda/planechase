@@ -5,14 +5,18 @@ import ReactDOM from 'react-dom'
 import './index.css'
 
 class App extends Component {
-    render() {
-        return (
-            <div className="App">
-                <Controls/>
-                <CardDisplay/>
-            </div>
-        )
-    }
+  render() {
+    return (
+      <div className="Container">
+        <div className="Controls-Container Component">
+          <Controls/>
+        </div>
+        <div className="Display-Container Component">
+          <CardDisplay/>
+        </div>
+      </div>
+    )
+  }
 }
 
 ReactDOM.render(<App />, document.getElementById('root'))

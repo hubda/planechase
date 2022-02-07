@@ -1,0 +1,644 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="69ff1ea1-4de6-4125-a243-ef5dcb050dcb" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/card-display/CardDisplay.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/card-display/CardDisplay.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/card-display/CardDisplay.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/card-display/CardDisplay.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/controls/Controls.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/controls/Controls.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/controls/Controls.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/controls/Controls.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/cards/academy-at-tolaria-west.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/planes/academy-at-tolaria-west.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/cards/agyrem.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/planes/agyrem.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/cards/akoum.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/planes/akoum.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/cards/opca-1-chaotic-aether.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/planes/opca-1-chaotic-aether.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/cards/opca-10-the-aether-flues.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/planes/opca-10-the-aether-flues.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/cards/opca-13-aretopolis.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/planes/opca-13-aretopolis.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/cards/opca-14-astral-arena.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/planes/opca-14-astral-arena.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/cards/opca-15-bant.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/planes/opca-15-bant.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/cards/opca-16-bloodhill-bastion.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/planes/opca-16-bloodhill-bastion.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/cards/opca-17-celestine-reef.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/planes/opca-17-celestine-reef.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/cards/opca-18-cliffside-market.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/planes/opca-18-cliffside-market.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/cards/opca-19-the-dark-barony.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/planes/opca-19-the-dark-barony.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/cards/opca-2-interplanar-tunnel.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/webcam-unfriendly/opca-2-interplanar-tunnel.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/cards/opca-20-edge-of-malacol.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/planes/opca-20-edge-of-malacol.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/cards/opca-21-eloren-wilds.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/planes/opca-21-eloren-wilds.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/cards/opca-22-the-eon-fog.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/planes/opca-22-the-eon-fog.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/cards/opca-23-feeding-grounds.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/planes/opca-23-feeding-grounds.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/cards/opca-24-fields-of-summer.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/planes/opca-24-fields-of-summer.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/cards/opca-25-the-fourth-sphere.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/planes/opca-25-the-fourth-sphere.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/cards/opca-26-furnace-layer.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/planes/opca-26-furnace-layer.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/cards/opca-27-gavony.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/planes/opca-27-gavony.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/cards/opca-28-glen-elendra.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/planes/opca-28-glen-elendra.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/cards/opca-29-glimmervoid-basin.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/planes/opca-29-glimmervoid-basin.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/cards/opca-3-morphic-tide.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/planes/opca-3-morphic-tide.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/cards/opca-30-goldmeadow.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/planes/opca-30-goldmeadow.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/cards/opca-31-grand-ossuary.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/planes/opca-31-grand-ossuary.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/cards/opca-32-the-great-forest.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/planes/opca-32-the-great-forest.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/cards/opca-33-grixis.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/planes/opca-33-grixis.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/cards/opca-34-grove-of-the-dreampods.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/planes/opca-34-grove-of-the-dreampods.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/cards/opca-35-hedron-fields-of-agadeem.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/planes/opca-35-hedron-fields-of-agadeem.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/cards/opca-36-the-hippodrome.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/planes/opca-36-the-hippodrome.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/cards/opca-37-horizon-boughs.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/planes/opca-37-horizon-boughs.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/cards/opca-38-immersturm.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/planes/opca-38-immersturm.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/cards/opca-39-isle-of-vesuva.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/planes/opca-39-isle-of-vesuva.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/cards/opca-4-mutual-epiphany.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/planes/opca-4-mutual-epiphany.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/cards/opca-40-izzet-steam-maze.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/planes/opca-40-izzet-steam-maze.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/cards/opca-41-jund.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/planes/opca-41-jund.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/cards/opca-42-kessig.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/planes/opca-42-kessig.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/cards/opca-43-kharasha-foothills.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/planes/opca-43-kharasha-foothills.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/cards/opca-44-kilnspire-district.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/planes/opca-44-kilnspire-district.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/cards/opca-45-krosa.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/planes/opca-45-krosa.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/cards/opca-46-lair-of-the-ashen-idol.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/planes/opca-46-lair-of-the-ashen-idol.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/cards/opca-47-lethe-lake.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/planes/opca-47-lethe-lake.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/cards/opca-48-llanowar.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/planes/opca-48-llanowar.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/cards/opca-49-the-maelstrom.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/planes/opca-49-the-maelstrom.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/cards/opca-5-planewide-disaster.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/planes/opca-5-planewide-disaster.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/cards/opca-50-minamo.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/planes/opca-50-minamo.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/cards/opca-51-mirrored-depths.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/planes/opca-51-mirrored-depths.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/cards/opca-52-mount-keralia.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/planes/opca-52-mount-keralia.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/cards/opca-53-murasa.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/planes/opca-53-murasa.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/cards/opca-54-naar-isle.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/planes/opca-54-naar-isle.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/cards/opca-55-naya.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/planes/opca-55-naya.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/cards/opca-56-nephalia.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/planes/opca-56-nephalia.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/cards/opca-57-norn-s-dominion.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/planes/opca-57-norn-s-dominion.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/cards/opca-58-onakke-catacomb.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/planes/opca-58-onakke-catacomb.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/cards/opca-59-orochi-colony.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/planes/opca-59-orochi-colony.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/cards/opca-6-reality-shaping.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/planes/opca-6-reality-shaping.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/cards/opca-60-orzhova.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/planes/opca-60-orzhova.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/cards/opca-61-otaria.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/planes/opca-61-otaria.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/cards/opca-62-panopticon.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/planes/opca-62-panopticon.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/cards/opca-63-pools-of-becoming.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/planes/opca-63-pools-of-becoming.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/cards/opca-64-prahv.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/planes/opca-64-prahv.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/cards/opca-65-quicksilver-sea.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/planes/opca-65-quicksilver-sea.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/cards/opca-66-raven-s-run.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/planes/opca-66-raven-s-run.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/cards/opca-67-sanctum-of-serra.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/planes/opca-67-sanctum-of-serra.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/cards/opca-68-sea-of-sand.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/planes/opca-68-sea-of-sand.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/cards/opca-69-selesnya-loft-gardens.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/planes/opca-69-selesnya-loft-gardens.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/cards/opca-7-spatial-merging.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/webcam-unfriendly/opca-7-spatial-merging.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/cards/opca-70-shiv.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/planes/opca-70-shiv.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/cards/opca-71-skybreen.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/planes/opca-71-skybreen.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/cards/opca-72-sokenzan.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/planes/opca-72-sokenzan.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/cards/opca-73-stairs-to-infinity.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/planes/opca-73-stairs-to-infinity.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/cards/opca-74-stensia.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/planes/opca-74-stensia.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/cards/opca-75-stronghold-furnace.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/planes/opca-75-stronghold-furnace.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/cards/opca-76-takenuma.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/planes/opca-76-takenuma.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/cards/opca-77-talon-gates.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/planes/opca-77-talon-gates.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/cards/opca-78-tazeem.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/planes/opca-78-tazeem.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/cards/opca-79-tember-city.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/planes/opca-79-tember-city.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/cards/opca-8-time-distortion.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/planes/opca-8-time-distortion.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/cards/opca-80-trail-of-the-mage-rings.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/planes/opca-80-trail-of-the-mage-rings.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/cards/opca-81-truga-jungle.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/planes/opca-81-truga-jungle.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/cards/opca-82-turri-island.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/planes/opca-82-turri-island.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/cards/opca-83-undercity-reaches.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/planes/opca-83-undercity-reaches.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/cards/opca-84-velis-vel.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/planes/opca-84-velis-vel.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/cards/opca-85-windriddle-palaces.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/webcam-unfriendly/opca-85-windriddle-palaces.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/cards/opca-86-the-zephyr-maze.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/planes/opca-86-the-zephyr-maze.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/symbols/CHAOS.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/symbols/CHAOS.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/symbols/PW.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/symbols/PW.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/symbols/whitespace.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/symbols/WHITESPACE.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="CardDisplay.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/card-display/CardDisplay.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="337">
+              <caret line="26" column="27" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="27" />
+              <folding>
+                <element signature="e#0#38#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Controls.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/controls/Controls.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Controls.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/controls/Controls.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="81">
+              <caret line="68" column="36" selection-start-line="68" selection-start-column="36" selection-end-line="68" selection-end-column="36" />
+              <folding>
+                <element signature="e#0#38#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>reactdom</find>
+      <find>.map</find>
+      <find>setstate</find>
+      <find>chaos</find>
+      <find>max-width</find>
+      <find>importAll</find>
+      <find>cardscontext</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/index.html" />
+        <option value="$PROJECT_DIR$/src/App.js" />
+        <option value="$PROJECT_DIR$/src/roll-counter/RollCounter.css" />
+        <option value="$PROJECT_DIR$/src/roll-counter/RollCounter.js" />
+        <option value="$PROJECT_DIR$/src/controls/RollCounter.js" />
+        <option value="$PROJECT_DIR$/src/App.css" />
+        <option value="$PROJECT_DIR$/src/index.js" />
+        <option value="$PROJECT_DIR$/src/index.css" />
+        <option value="$PROJECT_DIR$/src/card-display/CardDisplay.css" />
+        <option value="$PROJECT_DIR$/src/card-display/CardDisplay.js" />
+        <option value="$PROJECT_DIR$/src/controls/Controls.js" />
+        <option value="$PROJECT_DIR$/src/controls/Controls.css" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1017" />
+    <option name="width" value="914" />
+    <option name="height" value="1031" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="planechase" type="b2602c69:ProjectViewProjectNode" />
+              <item name="planechase" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="planechase" type="b2602c69:ProjectViewProjectNode" />
+              <item name="planechase" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="planechase" type="b2602c69:ProjectViewProjectNode" />
+              <item name="planechase" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="planechase" type="b2602c69:ProjectViewProjectNode" />
+              <item name="planechase" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="card-display" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="planechase" type="b2602c69:ProjectViewProjectNode" />
+              <item name="planechase" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="controls" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/Users/daniel.huber/Desktop/development/personal/planechase/src/cards/academy-at-tolaria-west.jpg" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../csv-importer" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\daniel.huber\Desktop\development\personal\planechase\src\roll-counter" />
+      <recent name="C:\Users\daniel.huber\Desktop\development\personal\planechase\src\card-display" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\daniel.huber\Desktop\development\personal\planechase\src\img\planes" />
+      <recent name="C:\Users\daniel.huber\Desktop\development\personal\planechase\src\img\phenomena" />
+      <recent name="C:\Users\daniel.huber\Desktop\development\personal\planechase\src\img\webcam-unfriendly" />
+      <recent name="C:\Users\daniel.huber\Desktop\development\personal\planechase\src\img\ignoring" />
+      <recent name="C:\Users\daniel.huber\Desktop\development\personal\planechase\src\img\cards" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="69ff1ea1-4de6-4125-a243-ef5dcb050dcb" name="Default" comment="" />
+      <created>1643303375976</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1643303375976</updated>
+      <workItem from="1643303377682" duration="18536000" />
+      <workItem from="1643731222059" duration="11774000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="30310000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info id="Image Layers" order="7" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Designer" order="3" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25214675" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="38" />
+          <folding>
+            <element signature="e#0#56#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="19" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/controls/Controls.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="44" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/controls/Controls.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/card-display/CardDisplay.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/card-display/CardDisplay.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="55" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.html" />
+    <entry file="file://$PROJECT_DIR$/src/img/planes/akoum.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="47" selection-start-line="11" selection-start-column="47" selection-end-line="11" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/img/symbols/CHAOS.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/img/symbols/PW.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/img/webcam-unfriendly/opca-7-spatial-merging.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/img/webcam-unfriendly/opca-2-interplanar-tunnel.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="12" lean-forward="true" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/logo192.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/logo512.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/logo.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/img/planes/agyrem.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/img/planes/academy-at-tolaria-west.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="41" selection-start-line="13" selection-start-column="41" selection-end-line="13" selection-end-column="41" />
+          <folding>
+            <element signature="e#0#56#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="20" lean-forward="true" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/card-display/CardDisplay.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="337">
+          <caret line="26" column="27" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/card-display/CardDisplay.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/controls/Controls.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="68" column="36" selection-start-line="68" selection-start-column="36" selection-end-line="68" selection-end-column="36" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/controls/Controls.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>planechase</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

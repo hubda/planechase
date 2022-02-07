@@ -1,5 +1,5 @@
 import React, {Component} from 'react'
-import chaos from '../img/symbols/CHAOS.png'
+import blank from '../img/symbols/WHITESPACE.png'
 import './CardDisplay.css'
 
 class CardDisplay extends Component {
@@ -18,7 +18,7 @@ class CardDisplay extends Component {
 
     importAll(r) {
         let images = {};
-        r.keys().forEach((item, index) => { images[item.replace('../img/cards', '')] = r(item); });
+        r.keys().forEach((item, index) => { images[item.replace('../img/planes', '')] = r(item); });
         return images;
     }
 
@@ -45,7 +45,8 @@ class CardDisplay extends Component {
 
     makeDecks() {
         console.log('making decks');
-        const images = this.importAll(require.context('../img/cards', false, /\.(png|jpe?g|svg)$/));
+        const planesContext = '../img/cards';
+        const images = this.importAll(require.context('../img/planes', false, /\.(png|jpe?g|svg)$/));
         const cardImages = [];
         const tempDeck = cardImages;
         const shownCards = [];
@@ -57,8 +58,6 @@ class CardDisplay extends Component {
         this.shuffleDeck(tempDeck);
         shownCards.push(tempDeck.pop());
 
-        // this.state.cardList = cardImages;
-        // this.state.shuffledCardList = tempDeck;
         return {
             cardList: cardImages,
             shuffledCardList: tempDeck,
@@ -75,7 +74,7 @@ class CardDisplay extends Component {
                 <img key={Date.now()}
                      src={cardToShow}
                      className="card-img"
-                     alt={chaos}
+                     alt={blank}
                      onClick={this.handleClick}
                 />
             </div>

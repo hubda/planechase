@@ -1,19 +1,16 @@
 .Controls {
     text-align: center;
+    position: relative;
 }
 
 .Buttons {
     padding-top: 1em;
     justify-content: space-between;
-    margin: 0 auto;
 }
 
-.Roll {
-    font-size: 36px;
-}
-
-.Reset {
-    font-size: 36px;
+.Button {
+    padding: 0 1em;
+    margin: 0 0.5em;
 }
 
 .result-img {
