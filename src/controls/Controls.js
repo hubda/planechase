@@ -33,7 +33,12 @@ class Controls extends Component {
 
     this.state = {
       currentResult: this.options[0],
-      count: 0
+      count: 0,
+      functions: {
+        handleCardClick: this.props.handleCardClick,
+        handleBack: this.props.handleBack,
+        handlePutOnBottom: this.props.handlePutOnBottom
+      }
     };
 
     this.handleRoll = this.handleRoll.bind(this);
@@ -66,7 +71,14 @@ class Controls extends Component {
       <div className="Controls">
         <div className="Buttons">
           <button className="Button Roll" onClick={this.handleRoll}>Roll</button>
-          <button className="Button Reset" onClick={this.handleReset}>Reset</button>
+          <button className="Button Reset" onClick={this.handleReset}>Reset Roll Count</button>
+        </div>
+        <div className="Buttons">
+          <button className="Button Back" onClick={this.state.functions.handleBack}>Prev Plane</button>
+          <button className="Button Continue" onClick={this.state.functions.handleCardClick}>Next Plane</button>
+        </div>
+        <div className="Buttons">
+          <button className="Button Put-on-bottom" onClick={this.state.functions.handlePutOnBottom}>Put on Bottom</button>
         </div>
         <div className="Display">
           <img key={Date.now()}
@@ -78,7 +90,6 @@ class Controls extends Component {
             <h4>Result: {this.state.currentResult.name}</h4>
           </p>
           <p>
-            <h4># Rolls this turn</h4>
             <h4>Your next roll costs this much mana</h4>
             <h4>{this.state.count}</h4>
           </p>
