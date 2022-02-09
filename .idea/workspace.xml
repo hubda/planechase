@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="69ff1ea1-4de6-4125-a243-ef5dcb050dcb" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/card-display/CardDisplay.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/card-display/CardDisplay.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/controls/Controls.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/controls/Controls.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/planes/opca-63-pools-of-becoming.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/webcam-unfriendly/opca-63-pools-of-becoming.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/planes/opca-73-stairs-to-infinity.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/webcam-unfriendly/opca-73-stairs-to-infinity.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/webcam-unfriendly/opca-63-pools-of-becoming.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/planes/opca-63-pools-of-becoming.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/webcam-unfriendly/opca-73-stairs-to-infinity.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/planes/opca-73-stairs-to-infinity.jpg" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,8 +18,8 @@
       <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="434">
-              <caret line="91" column="34" lean-forward="true" selection-start-line="91" selection-start-column="34" selection-end-line="91" selection-end-column="34" />
+            <state relative-caret-position="689">
+              <caret line="115" column="14" lean-forward="true" selection-start-line="115" selection-start-column="14" selection-end-line="115" selection-end-column="14" />
               <folding>
                 <element signature="e#0#56#0" expanded="true" />
               </folding>
@@ -34,8 +30,8 @@
       <file leaf-file-name="CardDisplay.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/card-display/CardDisplay.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" column="10" lean-forward="true" selection-start-line="22" selection-start-column="10" selection-end-line="22" selection-end-column="10" />
+            <state relative-caret-position="289">
+              <caret line="17" column="29" lean-forward="true" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="29" />
               <folding>
                 <element signature="e#0#38#0" expanded="true" />
               </folding>
@@ -166,6 +162,19 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="controls" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="planechase" type="b2602c69:ProjectViewProjectNode" />
+              <item name="planechase" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="planechase" type="b2602c69:ProjectViewProjectNode" />
+              <item name="planechase" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+              <item name="webcam-unfriendly" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -192,8 +201,8 @@
       <recent name="C:\Users\daniel.huber\Desktop\development\personal\planechase\src\card-display" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\daniel.huber\Desktop\development\personal\planechase\src\img\webcam-unfriendly" />
       <recent name="C:\Users\daniel.huber\Desktop\development\personal\planechase\src\img\planes" />
+      <recent name="C:\Users\daniel.huber\Desktop\development\personal\planechase\src\img\webcam-unfriendly" />
       <recent name="C:\Users\daniel.huber\Desktop\development\personal\planechase\src\img\phenomena" />
       <recent name="C:\Users\daniel.huber\Desktop\development\personal\planechase\src\img\ignoring" />
       <recent name="C:\Users\daniel.huber\Desktop\development\personal\planechase\src\img\cards" />
@@ -265,16 +274,15 @@
       <option name="presentableId" value="Default" />
       <updated>1643303375976</updated>
       <workItem from="1643303377682" duration="18536000" />
-      <workItem from="1643731222059" duration="20131000" />
+      <workItem from="1643731222059" duration="20853000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38667000" />
+    <option name="totallyTimeSpent" value="39389000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-1088" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -440,10 +448,10 @@
     <entry file="file://$PROJECT_DIR$/src/img/planes/opca-51-mirrored-depths.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/img/webcam-unfriendly/opca-73-stairs-to-infinity.jpg">
+    <entry file="file://$PROJECT_DIR$/src/img/planes/opca-73-stairs-to-infinity.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/img/webcam-unfriendly/opca-63-pools-of-becoming.jpg">
+    <entry file="file://$PROJECT_DIR$/src/img/planes/opca-63-pools-of-becoming.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/controls/Controls.css">
@@ -475,8 +483,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/card-display/CardDisplay.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="10" lean-forward="true" selection-start-line="22" selection-start-column="10" selection-end-line="22" selection-end-column="10" />
+        <state relative-caret-position="289">
+          <caret line="17" column="29" lean-forward="true" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="29" />
           <folding>
             <element signature="e#0#38#0" expanded="true" />
           </folding>
@@ -485,8 +493,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="434">
-          <caret line="91" column="34" lean-forward="true" selection-start-line="91" selection-start-column="34" selection-end-line="91" selection-end-column="34" />
+        <state relative-caret-position="689">
+          <caret line="115" column="14" lean-forward="true" selection-start-line="115" selection-start-column="14" selection-end-line="115" selection-end-column="14" />
           <folding>
             <element signature="e#0#56#0" expanded="true" />
           </folding>
